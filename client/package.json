@@ -29,6 +29,9 @@
       "react-app",
       "react-app/jest",
       "prettier"
+    ],
+    "ignorePatterns": [
+      "node_modules"
     ]
   },
   "prettier": {
